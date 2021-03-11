@@ -1,0 +1,5 @@
+{
+  "name": "DNSMasq",
+  "description": "Deploy DNSMasq to HEROKU",
+  "stack": "container",
+}
